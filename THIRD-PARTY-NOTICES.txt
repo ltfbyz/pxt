@@ -1,45 +1,45 @@
 
-/*!----------------- PXT ThirdPartyNotices -------------------------------------------------------
+/*!-----------------PXT Üçüncü Taraf Duyuruları -------------------------------------------------------
 
-PXT uses third party material from the projects listed below.
-The original copyright notice and the license under which Microsoft
-received such third party material are set forth below. Microsoft
-reserves all other rights not expressly granted, whether by
-implication, estoppel or otherwise.
+PXT, aşağıda listelenen projelerden üçüncü taraf malzemeleri kullanmaktadır.
+Orijinal telif hakkı bildirimi ve Microsoft tarafından lisanslanan lisans
+bu tür bir üçüncü taraf materyali alanlar aşağıda belirtilmiştir. Microsoft,
+açıkça verilmediği diğer tüm hakları saklı tutar;
+ima, kaçınma veya başka türlü.
 
-In the event that we accidentally failed to list a required notice, please
-bring it to our attention. Post an issue or email us:
+İstenilen bir bildirimi yanlışlıkla listelemediğimiz takdirde lütfen
+dikkatimizi çekelim. Bir sorun gönderin veya bize e-posta ile gönderin:
 
            makecode@microsoft.com
 
 ---------------------------------------------
-Third Party Code Components
+Üçüncü Kişi Kodu Bileşenleri
 ---------------------------------------------
 
     
------------------ bluebird -------------------
+----------------- Mavikuş -------------------
 
-The MIT License (MIT)
+MIT Lisansı (MIT)
 
 Copyright (c) 2013-2017 Petka Antonov
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Burada, herhangi bir kişinin bir kopyasını edinmesi için ücretsiz izin verilir
+Bu yazılımın ve ilişkili dokümantasyon dosyalarının ("Yazılım"),
+Sınırlama olmaksızın Yazılım'da, bunlarla sınırlı olmaksızın,
+kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisans verme ve / veya satma
+Yazılımın kopyalarını çıkarmak ve Yazılımın bulunduğu kişilere izin vermek
+bunu yapmak için döşenmiş, aşağıdaki şartlara tabi:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi,
+Yazılımın tüm kopyalarını veya büyük bölümlerini.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+YAZILIM HİÇBİR GARANTİ VERİLMEKSİZİN, "OLDUĞU GİBİ"
+BELİRLİ BİR AMACA UYGUNLUK, ZIMNİ, SATILABİLİRLİK GARANTİLERİ DAHİL, ANCAK BUNLARLA SINIRLI OLMAKSIZIN,
+BELİTLİ BİR AMACA UYGUNLUK VE UYUMSUZLULUK. HİÇBİR DURUMDA
+YAZARLARIN VEYA TELİF HAKKI SAHİPLERİNİN HERHANGİ BİR HAKSIZLIK, HASAR VEYA DİĞER
+YÜKÜMLÜLÜK, SÖZLEŞME KAPSAMINDAKİ HAKSIZ FİİLDİR, HAKSIZ FİİL VEYA DİĞER ŞEKİLDE,
+YAZILIMI VEYA KULLANIMI VEYA DİĞER BAHÇELERİ
+YAZILIM.
 
 
 ---------------------------------------------
@@ -57,29 +57,29 @@ MIT
 ----------------- highlight.js -------------------
 
 Copyright (c) 2006, Ivan Sagalaev
-All rights reserved.
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Her hakkı saklıdır.
+Kaynaklı ve ikili biçimlerdeki veya olmadan olan yeniden dağıtım ve kullanım
+aşağıdaki koşulların sağlanması koşuluyla izin verilir:
 
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
-    * Neither the name of highlight.js nor the names of its contributors 
-      may be used to endorse or promote products derived from this software 
-      without specific prior written permission.
+    * Kaynak kodun yeniden dağıtılması, yukarıdaki telif hakkını korumalıdır
+      dikkat edin, bu koşulların listesi ve aşağıdaki feragatname.
+    * İkili biçimde yeniden dağıtımlar, yukarıdaki telif hakkı
+      bildiriminde, bu koşulların listesini ve aşağıdaki feragatnameyi
+      dokümantasyon ve / veya dağıtım ile sağlanan diğer materyalleri.
+    * Ne highlight.js adı ne de katkıda bulunanların isimleri
+      bu yazılımdan türetilen ürünleri onaylamak veya tanıtmak için kullanılabilir
+      önceden yazılı izin almaksızın.
 
-THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND ANY
-EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE REGENTS AND CONTRIBUTORS BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+BU YAZILIM YAZARLAR VE KONTRİBÜTÖRLERİN "OLDUĞU GİBİ" OLARAK VE HERHANGİ BİR ŞEKİLDE VERİLİR
+ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE ZIMNİ İFADE VEYA ZIMNİ GARANTİLER
+SATILABİLİRLİK VE BELİRLİ BİR AMAYA UYGUNLUK GARANTİLERİ
+REDDEDİLMEKTEDİR. HİÇBİR DURUMDA, BELGELER VE YÜKLENİCİ HERHANGİ BİR SÜRECE
+DOĞRUDAN, DOLAYLI, ARIZİ, ÖZEL, ÖRNEKLİ VEYA SONUÇTA ZARARLAR
+(İKAME MAL VEYA HİZMET İŞLEMİ DAHİL OLMAK ÜZERE ANCAK BUNLARLA SINIRLI OLMAKSIZIN;
+KULLANIM, VERİ VEYA KAR KAYBI; VEYA İŞ KESİNTİSİ) DAHA FAZLA NEDENLİ VE
+SORUMLULUK KAPSAMINDA, SINIRLI YÜKÜMLÜLÜK VEYA İHLAL HAKKINDA HİÇBİR SORUMLULUK KURAMINDAN
+(İHMAL DAHİL VEYA DİĞER ŞEKİLDE DAHİL OLMAK ÜZERE) BU KULLANIMIN KULLANIMINDEN KAYNAKLANDAN KAYNAKLANAN
+ZIMANIN ZARARLARININ MUHTEMELİ ÖLÜMÜNE BİLDİRİLMİŞ OLSA BİLE, YAZILIM.
 
 
 ---------------------------------------------
@@ -88,24 +88,24 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 © 2016 Nathan Rugg <nmrugg@gmail.com>
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+İzin vermek, ücretsiz olarak, herhangi bir kişinin edinmesini sağlamaktadır
+bu yazılımın bir kopyası ve ilgili dokümantasyon dosyaları (
+"Yazılım"), Yazılım dahil olmak üzere herhangi bir kısıtlama olmaksızın,
+Sınırlamalara tabi olmaksızın, herhangi bir üçüncü şahsa ait herhangi bir materyali,
+Yazılımın kopyalarını dağıtma, alt lisans verme ve / veya satma ve
+Yazılımın sağlandığı kişilere izin vermek, bunlara izin vermek
+aşağıdaki koşullar:
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+Yukarıdaki telif hakkı uyarısı ve bu izin bildirimi
+Yazılımın tüm kopyalarına veya önemli bölümlerine dahil edilmiş.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+YAZILIM HİÇBİR GARANTİ OLMAKSIZIN "OLDUĞU GİBİ" sağlanmaktadır,
+HİÇBİR GARANTİ DAHİL ANCAK BİRLİKTE
+SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VE
+İHLAL. HİÇBİR ZAMANDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ
+HERHANGİ BİR HAKSIZ FİİL, ZARAR VEYA DİĞER YÜKÜMLÜLÜKLER İÇİN BİR EYLEMDE
+SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA ŞEKİLDE, BAĞLANTISIZIN DIŞINDA
+YAZILIMLA VEYA YAZILIMDA KULLANIMI VEYA DİĞER BAHARATLA.
 
 
 ---------------------------------------------
@@ -114,24 +114,23 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Copyright (c) 2011-2014, Christopher Jeffrey (https://github.com/chjj/)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Burada, herhangi bir kişinin bir kopyasını edinmesi için ücretsiz izin verilir
+Bu yazılımın ve ilişkili dokümantasyon dosyalarının ("Yazılım"),
+Sınırlama olmaksızın Yazılım'da, bunlarla sınırlı olmaksızın,
+kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisans verme ve / veya satma
+Yazılımın kopyalarını çıkarmak ve Yazılımın bulunduğu kişilere izin vermek
+bunu yapmak için döşenmiş, aşağıdaki şartlara tabi:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi,
+Yazılımın tüm kopyalarını veya büyük bölümlerini.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
+YAZILIM HİÇBİR GARANTİ VERİLMEKSİZİN, "OLDUĞU GİBİ"
+BELİRLİ BİR AMACA UYGUNLUK, ZIMNİ, SATILABİLİRLİK GARANTİLERİ DAHİL, ANCAK BUNLARLA SINIRLI OLMAKSIZIN,
+BELİTLİ BİR AMACA UYGUNLUK VE UYUMSUZLULUK. HİÇBİR DURUMDA
+YAZARLARIN VEYA TELİF HAKKI SAHİPLERİNİN HERHANGİ BİR HAKSIZLIK, HASAR VEYA DİĞER
+YÜKÜMLÜLÜK, SÖZLEŞME KAPSAMINDAKİ HAKSIZ FİİLDİR, HAKSIZ FİİL VEYA DİĞER ŞEKİLDE,
+YAZILIMI VEYA KULLANIMI VEYA DİĞER BAHÇELERİ
+YAZILIM.
 
 ---------------------------------------------
 
@@ -141,63 +140,63 @@ THE SOFTWARE.
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+  KULLANIM, Üreme ve DAĞITIM KOŞULLARI
 
-   1. Definitions.
+   1. Tanımlar.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      "Lisans", kullanım, üreme,
+      ve bu belgenin 1'den 9'a kadar olan Bölümleri ile tanımlanan dağıtım.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+      "Lisansör", aşağıdakiler tarafından yetkilendirilmiş telif hakkı sahibi veya varlığı anlamına gelir:
+      lisansı veren telif hakkı sahibi.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      "Tüzel Kişi", hareket eden varlığın birliği ve tümü
+      kontrol eden, kontrol edilen veya ortak olan diğer varlıklar
+      O varlık ile kontrol. Bu tanımın amaçları doğrultusunda,
+      "kontrol", (i) doğrudan veya dolaylı olarak,
+      yönü veya yönetimi, sözleşmeyle
+      aksi takdirde, veya (ii) mülkiyetin yüzde elli oranında (% 50)
+      olağanüstü hisseler veya (iii) bu varlığın faydalı sahipliği.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+      "Siz" (veya "Sizin") bir kişi veya Tüzel Kişi
+      Bu Lisansın izinlerini kullanma.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+      "Kaynak" formu, değişiklik yapmak için tercih edilen formu,
+      bunlarla sınırlı olmamak üzere yazılım kaynak kodu, belgeler
+      kaynak ve yapılandırma dosyaları.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+      "Nesne" formu, mekanik
+      bir Kaynak formun dönüştürülmesi veya tercümesi
+      Derlenmiş nesne kodu ile sınırlı değil, üretilen belgeler,
+      ve diğer medya türlerine dönüşümler.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+      "İş", Kaynakta olsun ya da olmasın, yazarın çalışması anlamına gelir.
+      Tarafından belirtildiği gibi, Lisans kapsamında mevcut nesne formu
+      işe dahil edilen veya işe eklenen telif hakkı uyarısı
+      (bir örnek aşağıdaki Ek'te verilmektedir).
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
+      "Türev İşler", ister Kaynak ister Nesne olsun, herhangi bir işi
+      (veya türetilen) ve
+      editöryel revizyonlar, ek açıklamalar, tasavvurlar veya diğer değişiklikler
+      bir bütün olarak orijinal bir yazarlık eserini temsil eder. Amaçları için
+      Bu Tüzük, Türev İşler,
+      arayüzlere ayrılabilir veya sadece araca bağlanabilir (veya adla bağlayabilir),
+      İş ve Türev İşleri.
+     
+     "Katkı", aşağıdakileri içeren herhangi bir yazarlık çalışması anlamına gelir:
+      İşin orijinal hali ve herhangi bir değişiklik veya eklemeler
+      kasıtlı olarak bu İş veya Türev İşlerine
+      telif hakkı sahibi tarafından İşe dahil edildiği için Lisans Sağlığına sunulmuştur
+      veya bir kişi veya adına talepte bulunmaya yetkili Tüzel Kişi tarafından
+      telif hakkı sahibi. Bu tanımın amaçları bakımından, "gönderilen"
+      , gönderilen herhangi bir elektronik, sözlü veya yazılı iletişim anlamına gelir.
+      Lisans veren veya temsilcilerine, bunlarla sınırlı olmamak üzere
+      elektronik posta listelerinde iletişim, kaynak kod kontrol sistemleri,
+      ve tarafından yönetilen izleme sistemleri yayınlayabilir ve
+      İşi tartışmak ve iyileştirmek amacıyla Lisans Sağlayıcı, ancak
+      belirgin olarak işaretlenmiş veya başka şekilde bildirilen iletişimi hariç tutarak
+      telif hakkı sahibi tarafından "Katkı Olamaz" olarak belirlenmiştir.
+     
       "Contributor" shall mean Licensor and any individual or Legal Entity
       on behalf of whom a Contribution has been received by Licensor and
       subsequently incorporated within the Work.
